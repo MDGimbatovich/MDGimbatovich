@@ -1,17 +1,8 @@
-# Привет👋,, I'm меня зовут Даниял
-### BI-аналитик
+# Привет👋, меня зовут Даниял
+### Data&Product-аналитик
 
-Ученик 2 курса РТУ МИРЭА (информационная безопасность)  
+Студент 2 курса РТУ МИРЭА  
 Ученик Школы 21 (прошел интенсив, зачислен на основное обучение)  
-Ученик Яндекс Лицея
-
-## Contact Me
-<p><a href="instagram.com/musvev.1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-<p>
-  <a href="https://t.me/MDGimbatovich" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
 
 ## Skills
 
@@ -28,5 +19,8 @@
 <img src="https://avatars.mds.yandex.net/i?id=9bc139166423a0ff1c9cf386cf10469167bcaba2-4971670-images-thumbs&n=13" alt="power bi" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
+## Contact Me
+  <a href="https://t.me/MDGimbatovich" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
