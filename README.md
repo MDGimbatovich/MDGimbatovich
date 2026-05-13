@@ -16,7 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
 </p>
+
 ## Contact Me
+</p>
   <a href="https://t.me/MDGimbatovich" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
